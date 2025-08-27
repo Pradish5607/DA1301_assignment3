@@ -2,3 +2,7 @@
 ## Hi
 hello
 `hi`
+```
+a = 1
+print(a)
+```
